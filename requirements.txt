@@ -1,0 +1,14 @@
+numpy
+pandas
+geopandas
+pyogrio
+shapely
+pyproj
+rasterio
+h3
+scikit-learn
+scipy
+highspy
+osmium
+pyarrow
+matplotlib
